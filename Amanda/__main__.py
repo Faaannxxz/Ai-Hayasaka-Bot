@@ -64,7 +64,7 @@ from Amanda.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
 Hello there, I'm 𝙰𝙸 𝙷𝙰𝚈𝙰𝚂𝙰𝙺𝙰
-I'm a Powerful group manager bot With Cool Modules. Made by [𝙃𝘼𝙔𝘼𝙎𝘼𝙆𝘼 𝙏𝙀𝘼𝙈 🇱🇰](t.me/DeadlyXrd)
+I'm a Powerful group manager bot With Cool Modules. Made by [𝙃𝘼𝙔𝘼𝙎𝘼𝙆𝘼 𝙏𝙀𝘼𝙈](t.me/DeadlyXrd)
 Hit /help to find my list of available commands
  
 """
