@@ -63,8 +63,8 @@ from Amanda.modules.helper_funcs.misc import paginate_modules
 from Amanda.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm 𝓐𝓶𝓪𝓷𝓭𝓪
-I'm a Powerful group manager bot With Cool Modules. Made by [𝒯𝒽𝒶𝓇𝓊𝓀 ℛℯ𝓃𝓊𝒿𝒶• 🇱🇰](t.me/TharukRenuja)
+Hello there, I'm 𝙰𝙸 𝙷𝙰𝚈𝙰𝚂𝙰𝙺𝙰
+I'm a Powerful group manager bot With Cool Modules. Made by [𝙃𝘼𝙔𝘼𝙎𝘼𝙆𝘼 𝙏𝙀𝘼𝙈 🇱🇰](t.me/DeadlyXrd)
 Hit /help to find my list of available commands
  
 """
@@ -72,32 +72,32 @@ Hit /help to find my list of available commands
 buttons = [
     [
         InlineKeyboardButton(
-            text="📢Updates Channel", url="https://t.me/SLBotsOfficial"
+            text="𝙐𝙋𝘿𝘼𝙏𝙀𝙎 𝘾𝙃𝘼𝙉𝙉𝙀𝙇", url="https://t.me/HayasakaProject"
         ),
         InlineKeyboardButton(
-            text="👥 Support Group", url="https://t.me/trtechguide"
-        ),
-    ],
-    [
-        InlineKeyboardButton(
-            text="📜Source", url="https://github.com/TR-TECH-GUIDE/Amanda"
-        ),
-        InlineKeyboardButton(
-            text="❔ Help", url="http://t.me/TheAmandabot?start=help"
+            text="𝙂𝙍𝙊𝙐𝙋 𝙎𝙐𝙋𝙊𝙍𝙏", url="https://t.me/animeloversindoacs"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Amanda to your group ➕",
+            text="𝙎𝙊𝙐𝙍𝘾𝙀 𝘾𝙊𝘿𝙀" , url="𝙇𝙊𝙇 𝙋𝙍𝙄𝙑𝘼𝙏𝙀 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙔"
+        ),
+        InlineKeyboardButton(
+            text="𝘼𝙇𝙇 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎", url="http://t.me/TheAmandabot?start=help"
+        ),
+    ],
+    [
+        InlineKeyboardButton(
+            text="➕ 𝘼𝘿𝘿 𝘼𝙄 𝙃𝘼𝙔𝘼𝙎𝘼𝙆𝘼 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋 ➕",
             url="t.me/TheAmandabot?startgroup=true",
         ),
     ],
 ]
 
-Amanda_IMG = "https://telegra.ph/file/04d73369440abc48ab3ce.png"
+Amanda_IMG = "https://telegra.ph/file/7e6354fd5e96a108d2da5.jpg"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/04d73369440abc48ab3ce.png)
+*Main Commands :* [🤖](https://telegra.ph/file/7e6354fd5e96a108d2da5.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
@@ -112,7 +112,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Hey, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [𝒯𝒽𝒶𝓇𝓊𝓀 ℛℯ𝓃𝓊𝒿𝒶](t.me/TharukRenuja)"""
+Support them  [𝙃𝘼𝙔𝘼𝙎𝘼𝙆𝘼 𝙏𝙀𝘼𝙈](t.me/animeloversindoacs)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
